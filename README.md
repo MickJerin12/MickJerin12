@@ -35,7 +35,7 @@
 
   <summary>:zap: GitHub Stats</summary>
   
- ![MickJerin's github stats](https://github-readme-stats.vercel.app/api?username=MickJerin12&count_private=true&show_icons=true&theme=radical)
+ ![MickJerin's github stats](https://github-readme-stats.vercel.app/api?username=MickJerin12&count_private=true&show_icons=true&&hide=issuestheme=radical)
  
  
 [instagram]: https://www.instagram.com/mick_jerin_
