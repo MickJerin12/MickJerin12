@@ -1,4 +1,4 @@
-### Hi there, I'm Mick Jerin
+### Hi there, I'm Mick Jerin👋🙂
 
 ## I'm a Frontend Engineer and Gamer!!
 
