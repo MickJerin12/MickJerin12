@@ -34,7 +34,7 @@
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MickJerin12&hide=java&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MickJerin12&hide=java&layout=compact)
 
 ![MickJerin's github stats](https://github-readme-stats.vercel.app/api?username=MickJerin12&count_private=true&hide=issues&show_icons=true&theme=radical&hide_border=true) 
  
