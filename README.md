@@ -35,5 +35,6 @@
 <br />
 
   <summary>:zap: GitHub Stats</summary>
+  
+ ![MickJerin's github stats](https://github-readme-stats.vercel.app/api?username=MickJerin12&count_private=true&show_icons=true&theme=radical)
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=MickJerin12&count_private=true&show_icons=true&theme=radical />
