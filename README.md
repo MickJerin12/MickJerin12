@@ -1,4 +1,9 @@
-### Hi there, I'm Mick
+![Name](https://github.com/sharannyobasu/sharannyobasu/blob/master/Hello(1).gif)
+![Name](https://github.com/sharannyobasu/sharannyobasu/blob/master/Name.png)
+
+
+### Profile Views :<br>
+<img src="https://profile-counter.glitch.me/MickJerin12/count.svg" />
 
 ## I'm a Frontend Engineer and Gamer!!
 
@@ -44,4 +49,5 @@
  
 [instagram]: https://www.instagram.com/mick_jerin_
 [linkedin]: https://www.linkedin.com/in/mick-jerin-570901159
+[Name]: Mick Jerin
 
