@@ -2,7 +2,7 @@
 
 ## I'm a Frontend Engineer and Gamer!!
 
-- 🔭 I currently working in Qube Cinema
+- 🔭 I'm currently working in Qube Cinema
 - 🌱 I’m currently learning backend tech
 - 🥅 2020 Goal: Contribute atleast one Open Source projects
 - 🎮  I love to play video games
