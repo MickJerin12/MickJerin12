@@ -5,7 +5,7 @@
 - 🔭 I currently working in Qube Cinema
 - 🌱 I’m currently learning backend tech
 - 🥅 2020 Goals: Contribute atleast one Open Source projects
-- ⚡ Fun fact: I love to play video games
+- ⚡  I love to play video games
 
 ### Spotify Playing 🎧
 
