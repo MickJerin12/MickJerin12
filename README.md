@@ -36,7 +36,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MickJerin12&hide=java&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br />
-<br />
 
 ![MickJerin's github stats](https://github-readme-stats.vercel.app/api?username=MickJerin12&count_private=true&hide=issues&show_icons=true&theme=radical) 
 <br />
