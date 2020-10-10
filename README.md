@@ -7,6 +7,10 @@
 - 🥅 2020 Goals: Contribute atleast one Open Source projects
 - ⚡ Fun fact: I love to play video games
 
+### Spotify Playing 🎧
+
+<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -37,10 +41,6 @@
 ![MickJerin's github stats](https://github-readme-stats.vercel.app/api?username=MickJerin12&count_private=true&hide=issues&show_icons=true&theme=radical) 
 <br />
 <br />
-
-### Spotify Playing 🎧
-
-<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />
  
 [instagram]: https://www.instagram.com/mick_jerin_
 [linkedin]: https://www.linkedin.com/in/mick-jerin-570901159
