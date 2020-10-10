@@ -13,8 +13,8 @@
 
 ### Connect with me:
 
-<img align="left" href="https://www.linkedin.com/in/mick-jerin-570901159/" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" href="https://www.instagram.com/mick_jerin_/" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/in/mick-jerin-570901159/" />
+<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://www.instagram.com/mick_jerin_/" />
 
 <br />
 
