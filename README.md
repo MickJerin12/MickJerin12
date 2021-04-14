@@ -1,9 +1,9 @@
 ### Hi there, I'm Mick Jerin👋🙂
 
-## I'm a Frontend Engineer and Gamer!!
+## I'm a Frontend Engineer
 
 - 🔭 I'm currently working in Qube Cinema
-- 🌱 I’m currently learning backend tech
+- 🌱 I’m currently learning backend tech, Nextjs
 - 🥅 2021 Goal: To contribute atleast one Open Source projects
 - 🎮  I love to play video games
 
