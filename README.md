@@ -2,11 +2,6 @@
 
 ## I'm a Frontend Engineer
 
-- 🔭 I'm currently working in Qube Cinema
-- 🌱 I’m currently learning backend tech, Nextjs
-- 🥅 2021 Goal: To contribute atleast one Open Source projects
-- 🎮  I love to play video games
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
